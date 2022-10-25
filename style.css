@@ -1,0 +1,52 @@
+body{
+
+    margin: 0px;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    height: 200px;
+    background-repeat: no-repeat;
+    padding-bottom: 200px;
+    padding-top: 30px;
+}
+
+.name{
+    width: 40%;
+    float: left;
+    margin-left: 20px;
+    padding-left: 20px;
+}
+
+.frist{
+    color: rgb(255, 0, 0);
+    
+}
+h1{
+    font-size: 50px;
+}
+a:link{
+    color: white;
+   background-image: linear-gradient(45deg, rgb(146, 131, 125),rgb(94, 255, 0));
+    text-decoration: none;
+
+    font-size: 20px;
+
+    padding: 5px 15px;
+   font-weight: 700;
+    border-radius: 5px;
+    
+}
+.hasem{
+    width: 40%;
+    float: left;
+    margin-left: 20px;
+    padding-left: 20px;
+}
+.hasem img{
+    width: 100%;
+}
+.jahid{
+    padding-top: 150px;
+
+   
+}
