@@ -1,5 +1,4 @@
 body{
-
     margin: 0px;
 }
 .top-banner{
@@ -9,14 +8,12 @@ body{
     padding-bottom: 200px;
     padding-top: 30px;
 }
-
 .name{
     width: 40%;
     float: left;
     margin-left: 20px;
     padding-left: 20px;
 }
-
 .frist{
     color: rgb(255, 0, 0);
     
@@ -28,13 +25,10 @@ a:link{
     color: white;
    background-image: linear-gradient(45deg, rgb(146, 131, 125),rgb(94, 255, 0));
     text-decoration: none;
-
     font-size: 20px;
-
     padding: 5px 15px;
    font-weight: 700;
-    border-radius: 5px;
-    
+    border-radius: 5px;  
 }
 .hasem{
     width: 40%;
@@ -48,21 +42,17 @@ a:link{
 .jahid{
     padding-top: 150px;
     padding-bottom: 200px;
- 
 }
-.try{
-   
+.try{  
     width: 40%;
     float: left; 
     margin-left: 0px;
 }  
 .jamal{
-    padding-top: 200px;
-    
+    padding-top: 200px; 
    padding-left: 20px;
     margin-left: 20px;
-    padding-bottom: 200px;
-    
+    padding-bottom: 200px; 
 }
 .color{
     color: rgba(255, 0, 0, 0.877);
@@ -71,18 +61,13 @@ a:link{
     box-shadow: 2px 2px 20px 2px rgb(39, 85, 74);
     padding: 25px;
     border-radius: 5px;
-   
-
-    
 }
-
     .rohim{
         background-image: url(images/exp-bg.png);
         background-repeat: no-repeat;
         background-position: bottom left;
         background-size:80px;
         padding-bottom:150px;
-        
         margin-left: 0px;
     }
     #boder{
